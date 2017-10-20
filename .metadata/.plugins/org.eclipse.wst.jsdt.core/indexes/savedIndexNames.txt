@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+F:\github\helloWord\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1693932866.index
+3561791392.index
+1254162522.index
+2380175872.index
+1066163288.index
+2830615768.index
+9669383.index
